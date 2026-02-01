@@ -667,7 +667,25 @@ plus metryki *North Star* i *Top Business*
 ## DORA metrics
 
 - Jak mam wiedzieć, że dział inż. nie ma problemów
-- https://dora.dev/guides/dora-metrics/
+
+---
+<!-- _class: lead -->
+## DORA Metrics - 4 Kluczowe Wskaźniki
+
+| Metryka | Opis | Elite Performance |
+|---------|------|-------------------|
+| **Deployment Frequency** | Jak często deployujemy na produkcję | On-demand (wiele razy dziennie) |
+| **Lead Time for Changes** | Czas od commita do produkcji | < 1 godzina |
+| **Change Failure Rate** | % deployów powodujących incydenty | < 5% |
+| **Time to Restore Service** | Czas naprawy po awarii | < 1 godzina |
+
+<small>Źródło: [DORA Research](https://dora.dev/guides/dora-metrics/)</small>
+
+---
+<!-- _class: lead -->
+## Kano model
+
+- [kano model](https://en.wikipedia.org/wiki/Kano_model)
 
 ---
 <!-- _class: lead -->
