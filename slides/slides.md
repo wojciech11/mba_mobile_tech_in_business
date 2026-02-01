@@ -403,9 +403,9 @@ https://www.uxtigers.com/post/ai-first
 
 #### Inne narzędzia
 
-- Algorithmic Business Thinking
-- Value Stream Mapping
-- Event storming
+- Algorithmic Business Thinking - dekomozycja
+- Value Stream Mapping - wizualizacja przepływu wartości
+- Event storming - wizualizacja procesów biznesowych poprzez wspólne mapowanie zdarzeń domenowych
 
 ---
 <!-- _class: lead -->
@@ -534,6 +534,15 @@ Przykłady:
 | **Custom** | Node.js, Go | Pełna kontrola, przewaga |
 
 Trend 2026: BaaS + AI APIs (OpenAI, Anthropic)
+
+---
+<!-- _class: lead -->
+### Nie wszystko trzeba samemu budować
+
+- API-first CRM
+- API-first ecommerce
+- ...
+- Feature-flags
 
 ---
 <!-- _class: lead -->
